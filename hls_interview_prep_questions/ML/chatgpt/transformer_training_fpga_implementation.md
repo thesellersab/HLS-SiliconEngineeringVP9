@@ -1,7 +1,9 @@
+# Hardware-Aware Transformer: From Training to FPGA/ASIC Deployment
+
+
 ![](https://github.com/thesellersab/icons_image_emblems_signs/blob/main/image.png)
 ![](https://github.com/thesellersab/icons_image_emblems_signs/blob/main/edshaz_7.png)
 
-# Hardware-Aware Transformer: From Training to FPGA/ASIC Deployment
 
 ## Executive Summary
 
